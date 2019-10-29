@@ -1,0 +1,10 @@
+#header{
+	background-color:blue;
+	color:white;
+}
+#container{
+	border:solid 3px black;
+	text-align:center;
+	margin:0 auto;
+	
+}
